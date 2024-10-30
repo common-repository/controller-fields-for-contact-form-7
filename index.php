@@ -1,0 +1,1 @@
+<?php // While silence is usually golden, white silence is violence
